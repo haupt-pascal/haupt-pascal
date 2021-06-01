@@ -18,8 +18,6 @@ const pascal = {
     description about me: "i am a front-end designer & developer since about 3 years, focused on design and websites"
 }
 ```
-<br/>
-<br/>
 
 ### My Github
 
