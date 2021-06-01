@@ -3,7 +3,7 @@
 </em></p>
 
 [![GitHub haupt-pascal](https://img.shields.io/github/followers/haupt-pascal?label=follow&style=social)](https://github.com/haupt-pascal/)
-
+<br/>
 ```javascript
 const pascal = {
     pronouns: "he" / "him",
@@ -18,7 +18,7 @@ const pascal = {
     description about me: "i am a front-end designer & developer since about 3 years, focused on design and websites"
 }
 ```
-
+<br/>
 ### My Github
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haupt-pascal&count_private=true)
