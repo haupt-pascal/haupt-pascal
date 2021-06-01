@@ -1,12 +1,6 @@
 ### Hello there, I'm Pascal - aka [haupt-pascal][website] ??
 
-## I am a IT-Specialist, Developer, and Designer! 
-- ?? I am currently working on [front-end framework][website]!
-- ?? I am currently leaning a lot of backend-developing ??
-- ?? 2021 Goals: Daily github-pushes and much more open source projects
-
 ### Where you can find me
-
 
 [![Linkedin: pascal-haupt](https://img.shields.io/badge/-pascal-haupt-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pascal-haupt-b6406719b/)](https://www.linkedin.com/in/pascal-haupt-b6406719b/)
 [![GitHub haupt-pascal](https://img.shields.io/github/followershaupt-pascal?label=follow&style=social)](https://github.com/haupt-pascal/)
