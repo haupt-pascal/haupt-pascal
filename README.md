@@ -19,7 +19,8 @@ const pascal = {
 }
 ```
 <br/>
-### My Github
+
+<h3> My Github <h3/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haupt-pascal&count_private=true)
 
