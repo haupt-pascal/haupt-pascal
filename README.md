@@ -10,7 +10,7 @@ const pascal = {
     languages: [javascript, html, css, php],
     tools: [nodejs, docker],
     frameworks: [tailwindcss, bulmacss, bootstrap],
-    biggestProject: {
+    myCompany: {
         name: 'kyaan.agency',
         description: 'a social media & webdesign agency startup',
         role: 'founder & developer'
