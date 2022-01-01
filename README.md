@@ -6,7 +6,7 @@
 <br/>
 ```javascript
 const pascal = {
-    pronouns: "he" / "him",
+    age: '19',
     languages: [javascript, html, css, php],
     tools: [nodejs, docker],
     frameworks: [tailwindcss, bulmacss, bootstrap],
