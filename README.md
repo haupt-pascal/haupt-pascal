@@ -8,7 +8,7 @@
 const pascal = {
     age: '19',
     languages: [python, html, css, php],
-    tools: [sass, JSON],
+    tools: [sass, json],
     frameworks: [tailwindcss, bulmacss, bootstrap],
     myCompany: {
         name: 'haupt.design',
