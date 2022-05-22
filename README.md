@@ -7,15 +7,15 @@
 ```javascript
 const pascal = {
     age: '19',
-    languages: [javascript, html, css, php],
-    tools: [nodejs, docker],
+    languages: [python, html, css, php],
+    tools: [sass, JSON],
     frameworks: [tailwindcss, bulmacss, bootstrap],
     myCompany: {
         name: 'haupt.design',
         description: 'a ui-design & webdevelopment agency startup',
         role: 'founder & developer'
     },
-    description about me: "i am a ui-designer & web-developer since about 3 years, focused on app-development & websites"
+    description about me: "i am a ui-designer & web-developer since about 4 years, focused on app-development & websites"
 }
 ```
 <br/>
