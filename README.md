@@ -15,7 +15,7 @@ const pascal = {
         description: 'a ui-design & frontend agency startup',
         role: 'founder, designer & developer'
     },
-    description about me: "i am a ui-designer & web-developer since about 5 years, focused on frontend-development, ui-design & websites"
+    description about me: "i am a ui-designer & frontend-developer since about 5 years, focused on apps & websites"
 }
 ```
 <br/>
