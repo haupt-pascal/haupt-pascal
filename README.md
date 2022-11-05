@@ -1,5 +1,5 @@
 <h2> Hi, I'm Pascal Haupt! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<p><em>IT specialist at <a href="http://www.antenne.com">Antenne Niedersachsen GmbH & Co. KG</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Founder of <a href="https://haupt.design">haupt.design</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Student at <a href="http://bbs-me.de">BbS-ME</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Founder of <a href="https://haupt.design">haupt.design</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![GitHub haupt-pascal](https://img.shields.io/github/followers/haupt-pascal?label=follow&style=social)](https://github.com/haupt-pascal/)
